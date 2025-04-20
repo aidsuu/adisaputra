@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1a1a2e;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.portfolio-container {
+    width: 80%;
+    margin: auto;
+    padding: 2rem;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    color: #6a5acd;
+}
+
+section h2 {
+    font-size: 2rem;
+    color: #6a5acd;
+}
+
+section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+section ul li {
+    font-size: 1.2rem;
+}
+
+a {
+    color: #6a5acd;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.contact, .education, .skills, .languages {
+    margin-bottom: 2rem;
+}
